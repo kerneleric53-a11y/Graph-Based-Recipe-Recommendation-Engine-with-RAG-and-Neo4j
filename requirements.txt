@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-experimental
+langchain-text-splitters
+langchain-huggingface
+langchain-neo4j
+langchain-groq
+neo4j
+faiss-cpu
+rank_bm25
+unstructured
+sentence-transformers
+ragas
+datasets

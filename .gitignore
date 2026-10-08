@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+.env
+*.pyc
+recipe_faiss_index/
+.DS_Store
